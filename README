@@ -9,3 +9,9 @@ The first two letters of each filename are a logarithmic difficulty level
 50 unsolved
 
 If the file is a directory, then the directory contains multiple files with a single problem.
+
+All these files are assumed to be compiled using the command:
+
+g++ -g -std=c++11
+
+unless otherwise indicated.  The -g is for debugging
